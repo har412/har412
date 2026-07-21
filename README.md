@@ -40,16 +40,6 @@ My process starts on a whiteboard, moves fast into a validated prototype, and on
 
 **WhisperIsland** — [har412.github.io/whisper-island](https://har412.github.io/whisper-island) · Free, open-source WhisperFlow alternative for voice-to-text using the Groq API.
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=har412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=har412&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=har412&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
 
 <div align="center">
 <sub>Ludhiana, Punjab &nbsp;·&nbsp; open to interesting problems</sub>
